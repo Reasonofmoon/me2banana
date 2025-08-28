@@ -1,0 +1,5 @@
+{
+  "name": "ME2BANANA",
+  "description": "Go bananas! Upload a character image to ME2BANANA and use AI to generate new images from various camera angles, styles, and lens settings.",
+  "requestFramePermissions": []
+}
